@@ -1,4 +1,6 @@
-C:\Users\sofic\OneDrive\Documents\GitHub\SC-403_TechShop_SofiaCampos\TiendaTech\src\main\java\tiendaTech\com\demo\domain\Categoria.java
-C:\Users\sofic\OneDrive\Documents\GitHub\SC-403_TechShop_SofiaCampos\TiendaTech\src\main\java\tiendaTech\com\demo\ProjectConfig.java
-C:\Users\sofic\OneDrive\Documents\GitHub\SC-403_TechShop_SofiaCampos\TiendaTech\src\main\java\tiendaTech\com\demo\repository\CategoriaRepository.java
-C:\Users\sofic\OneDrive\Documents\GitHub\SC-403_TechShop_SofiaCampos\TiendaTech\src\main\java\tiendaTech\com\demo\TiendaTechApplication.java
+C:\Users\sofic\OneDrive\Documents\GitHub\SC-403_TechShop_SofiaCampos\TiendaTech\src\main\java\tiendaTech\controller\CategoriaController.java
+C:\Users\sofic\OneDrive\Documents\GitHub\SC-403_TechShop_SofiaCampos\TiendaTech\src\main\java\tiendaTech\domain\Categoria.java
+C:\Users\sofic\OneDrive\Documents\GitHub\SC-403_TechShop_SofiaCampos\TiendaTech\src\main\java\tiendaTech\ProjectConfig.java
+C:\Users\sofic\OneDrive\Documents\GitHub\SC-403_TechShop_SofiaCampos\TiendaTech\src\main\java\tiendaTech\repository\CategoriaRepository.java
+C:\Users\sofic\OneDrive\Documents\GitHub\SC-403_TechShop_SofiaCampos\TiendaTech\src\main\java\tiendaTech\services\CategoriaServices.java
+C:\Users\sofic\OneDrive\Documents\GitHub\SC-403_TechShop_SofiaCampos\TiendaTech\src\main\java\tiendaTech\TiendaTechApplication.java
