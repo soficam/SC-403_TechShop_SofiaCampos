@@ -3,8 +3,12 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 
-package tiendaTech.com.demo.domain;
- 
+package tiendaTech.domain;
+
+/**
+ *
+ * @author sofic
+ */
 import jakarta.persistence.*;
 
 import jakarta.validation.constraints.NotBlank;
